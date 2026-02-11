@@ -12,7 +12,7 @@ class Geeks
                 return false;
 
         return true;
-    
+    }
 
     // Driver Program
     public static void main(String args[])
